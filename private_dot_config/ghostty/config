@@ -1,0 +1,4 @@
+background-blur = true
+background-image = ~/.config/background.png
+background-opacity = 0.8
+theme = Banana Blueberry
